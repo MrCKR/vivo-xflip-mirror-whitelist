@@ -110,4 +110,8 @@ App 不申请 `INTERNET`，没有广告、统计上传、在线图片或账号�
 
 当前源码为 1.3.1。发布内容不含 vivo / CoverScreen OS APK、反编译源码、手机私有配置、访问令牌或签名密钥。依赖通过官方 Maven 坐标取得，相关声明见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 
-开源许可证尚待项目所有者确认；在确认前，本仓库不授予额外的软件使用、修改或再分发许可。公开可见不等于自动获得 MIT 等开源授权。
+## 许可证
+
+本项目采用 [MIT License](LICENSE)，Copyright (c) 2026 MrCKR。允许使用、修改、分发及商业使用，需保留版权和许可声明；软件按原样提供，不提供担保。
+
+第三方依赖保留各自的版权与许可证，详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
