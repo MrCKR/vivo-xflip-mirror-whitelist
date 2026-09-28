@@ -1,0 +1,38 @@
+# Build outputs and machine-local configuration
+.gradle/
+**/build/
+out/
+deps/
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Never publish signing keys, credentials or local environment files
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+.envrc
+credentials*
+secrets*
+key.properties
+keystore.properties
+signing.properties
+
+# APKs belong in Releases, not source history
+*.apk
+*.aab
+*.apks
+*.hprof
+*.log
+
+# Local investigations and phone-specific test data
+vision-check*
+*_test.*
+__pycache__/
+*.pyc
